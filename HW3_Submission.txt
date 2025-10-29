@@ -1,0 +1,110 @@
+DS4200 Homework 3 - Complete Submission
+Name: Xinwenz Zhang (October 28, 2025)
+Due Date: October 31, 2025
+
+========================================
+SUBMISSION OVERVIEW
+========================================
+
+This document contains the complete submission for both Part 1 (Personal Website) and Part 2 (D3 Visualizations).
+
+All code is available in my public GitHub repository:
+https://github.com/AlisonZhangxw/DS4200-HW3-Xinwenz
+
+
+========================================
+IMPORTANT: WEBSITE LINKS
+========================================
+
+Please visit these three links to view my completed work:
+
+1. Part 1 - My Website Home Page:
+   https://alisonzhangxw.github.io/DS4200-HW3-Xinwenz/part1_mywebsite/index.html
+
+2. Part 1 - My Website Hobby Page:
+   https://alisonzhangxw.github.io/DS4200-HW3-Xinwenz/part1_mywebsite/about.html
+
+3. Part 2 - D3 Visualizations:
+   https://alisonzhangxw.github.io/DS4200-HW3-Xinwenz/part2_d3/HW_D3_Xinwenz.html
+
+
+========================================
+PART 1: PERSONAL WEBSITE
+========================================
+
+Website Structure:
+- Two pages: Home and Hobby
+- Both pages have 200+ words of content
+- Both pages include images
+- Hobby page has a list of favorite sports
+- Contact section with email and social media links
+- Working navigation between all pages
+
+CSS Customizations:
+
+1. Custom Fonts and Typography
+   - Different font sizes for headings and body text
+   - Adjusted line spacing for readability
+
+2. Custom Color Scheme
+   - Blue color palette for navigation bar
+   - Different background colors for sections
+   - Hover effects on links
+
+3. Custom Layout and Spacing
+   - CSS Grid for image and text layout
+   - Custom padding and margins throughout
+   - Rounded corners and shadows on images
+
+
+Part 1 Files in Repository:
+- part1_mywebsite/index.html (Home page)
+- part1_mywebsite/about.html (Hobby page)
+- part1_mywebsite/style.css (Stylesheet with customizations)
+- part1_mywebsite/iamges/..... (Two images in folder)
+
+
+========================================
+PART 2: D3 VISUALIZATIONS
+========================================
+
+Box Plot:
+- Shows distribution of likes across three age groups
+- Includes whiskers, boxes, and median lines
+- Code has required comments explaining d3.rollup() and forEach()
+
+Bar Plot:
+- Compares average likes by platform and post type
+- Four platforms with three post types each
+- Complete legend with colored squares and labels
+- Data preprocessed using Python (socialMediaAvg.csv)
+
+Line Plot:
+- Shows average likes over one week
+- Uses d3.curveNatural for smooth curve
+- Rotated X-axis labels for readability
+- Data preprocessed using Python (socialMediaTime.csv)
+
+
+Part 2 Files in Repository:
+- part2_d3/HW_D3_Xinwenz.html (Visualization page)
+- part2_d3/HW_D3_Xinwenz.js (JavaScript code)
+- part2_d3/socialMedia.csv (Original dataset)
+- part2_d3/socialMediaAvg.csv (Processed data for bar plot)
+- part2_d3/socialMediaTime.csv (Processed data for line plot)
+
+
+========================================
+FILES SUBMITTED
+========================================
+
+Part 1: All files in part1_mywebsite/ folder
+- index.html, about.html, style.css, images
+
+Part 2: Files in part2_d3/ folder
+- HW_D3_Xinwenz.html
+- HW_D3_Xinwenz.js
+
+All requirements completed and tested successfully.
+
+Thank you for reviewing my submission.
